@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "unistd.h": "c",
+        "set.h": "c"
+    }
+}
