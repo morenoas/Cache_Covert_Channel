@@ -1,4 +1,8 @@
-# CJAG 
+# Cache_Covert_Channel
+
+# This is an implementaion of the physical layer of the covert channel described in the paper 
+# "Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud" (section V.A).
+# this implementaion is based on the Jamming Agreement code described in: https://github.com/IAIK/CJAG.
 
 CJAG is an open-source implementation of our cache-based jamming agreement. 
 The CJAG implementation can be used to establish a cross-VM cache covert channel. The CJAG test application in this repository is used to test a cache-based communication between two co-located virtual machines. It can also be used locally for test and research purposes. 
